@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on JS, Node.JS, Python.
+- 🌱 I’m currently learning GO, Elixir.
+- 🤔 I’m looking for help with Distributed System and microservice.
+- 💬 Ask me about Web Stuff and Architecting Software.
+- 📫 How to reach me: [Twitter](https://twitter.com/Gustialfianmp)
+
 <!--
 **gustialfian/gustialfian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
