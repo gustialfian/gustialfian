@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JS, Node.JS, Python.
+- 🔭 I’m currently working on JS and Python.
 - 🌱 I’m currently learning GO, Clojure.
-- :book: My previous programming language php, Java, Elixir, Rust.
+- :book: I used to learn PHP, Java, Rust, Elixir.
 - 🤔 I’m looking for help with Distributed System and microservice.
 - 💬 Ask me about Web Stuff and Architecting Software.
 - 📫 How to reach me: [Twitter](https://twitter.com/Gustialfianmp)
