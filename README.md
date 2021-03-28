@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JS and Python.
-- 🌱 I’m currently learning GO, Clojure.
-- :book: I used to learn PHP, Java, Rust, Elixir.
+- 🔭 I’m currently working on JS.
+- 🌱 I’m currently learning Java.
+- :book: I used to learn PHP, Java, Rust, Elixir, GO, Clojure, Python.
 - 🤔 I’m looking for help with Distributed System and microservice.
-- 💬 Ask me about Web Stuff and Architecting Software.
+- 💬 Ask me about Web Stuff and Software Architecture.
 - 📫 How to reach me: [Twitter](https://twitter.com/Gustialfianmp)
 
 <!--
