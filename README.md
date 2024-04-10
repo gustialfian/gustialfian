@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on JS.
-- :book: I used to work/learn GO, Java, JS, PHP, Rust, Elixir, Clojure, Python.
+- :book: I used to work/learn GO, Java, JS, PHP, Rust, Elixir, Clojure, Python, Zig.
 - 🤔 I’m looking for help with Distributed System and microservice.
 - 💬 Ask me about Web Stuff and Software Architecture.
 - 📫 How to reach me: [Twitter](https://twitter.com/Gustialfianmp)
