@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JS.
+- 🔭 I’m currently working on TS.
 - :book: I used to work/learn GO, Java, JS, PHP, Rust, Elixir, Clojure, Python, Zig.
 - 🤔 I’m looking for help with Distributed System and microservice.
 - 💬 Ask me about Web Stuff and Software Architecture.
